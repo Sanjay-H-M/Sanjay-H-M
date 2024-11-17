@@ -30,7 +30,7 @@ I am a versatile developer with expertise in web development, programming, and e
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjay-sj1kv&show_icons=true&hide_border=true)
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjay-sj1kv&show_icons=true&hide_border=true)
 
 ---
 
@@ -49,4 +49,4 @@ I am a versatile developer with expertise in web development, programming, and e
 
 **Check out my repositories and don't forget to give a star!** 👇
 
-:star: From [Sanjay](https://github.com/sanjay-sj1kv)
+:star: From [Sanjay](https://github.com/Sanjay-H-M)
