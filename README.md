@@ -30,7 +30,8 @@ I am a versatile developer with expertise in web development, programming, and e
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjay-H-M_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjay-H-M&show_icons=true&hide_border=true)
+
 
 ---
 
