@@ -1,4 +1,4 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.instagram.com/sanjay_2705/profilecard/?igsh=MTNxNW5sYTN0aHljOA==)
+
 
 ##### Hi, I'm Sanjay:
 
