@@ -36,7 +36,7 @@ I am a versatile developer with expertise in web development, programming, and e
 
 ### You can find me on the web 🌍
 
-[<img align="left" alt="Sanjay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/sanjay_2705/profilecard/?igsh=MTNxNW5sYTN0aHljOA==)
+[<img align="left" alt="Sanjay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_sanjay_2705_/profilecard/?igsh=MTNxNW5sYTN0aHljOA==)
 [<img align="left" alt="Sanjay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/h-m-sanjay-6928a92a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [<img align="left" alt="Sanjay | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/share/1BHyWPmizk/)
 [<img align="left" alt="Sanjay | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/@sanjay-sj1kv?si=xal3MJXBMYXzqBYN)
