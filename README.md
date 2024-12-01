@@ -29,11 +29,18 @@ I am a versatile developer with expertise in web development, programming, and e
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjay-H-M&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjay-H-M&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=light&theme=dracula&locale=en&hide_border=true)
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Sanjay-H-M&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=light&hide_border=true)
 
 ---
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+---
 ### You can find me on the web 🌍
 
 [<img align="left" alt="Sanjay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_sanjay_2705_/profilecard/?igsh=MTNxNW5sYTN0aHljOA==)
@@ -43,15 +50,10 @@ I am a versatile developer with expertise in web development, programming, and e
 
 <br/>
 ###
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+---
 ### Let's connect 👨‍💻 and innovate together! 💡
 
 **Check out my repositories and don't forget to give a star!** 👇
 
 :star: From [Sanjay](https://github.com/Sanjay-H-M)
+---
