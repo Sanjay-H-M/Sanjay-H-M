@@ -30,7 +30,7 @@ I am a versatile developer with expertise in web development, programming, and e
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjay-H-M&show_icons=true&hide_border=true)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Sanjay-H-M&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
 
 ---
 
@@ -50,7 +50,13 @@ I am a versatile developer with expertise in web development, programming, and e
 </div>
 
 ###
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 ### Let's connect 👨‍💻 and innovate together! 💡
 
 **Check out my repositories and don't forget to give a star!** 👇
