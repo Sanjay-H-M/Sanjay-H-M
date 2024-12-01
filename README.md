@@ -1,4 +1,4 @@
-# **Hey, Sanjay here 👋**  
+# **Hey, Sanjay.H.M. here 👋**  
 
 I am a versatile developer with expertise in web development, programming, and exploring innovative tech solutions. Always eager to learn and collaborate on exciting projects! 🚀  
 
