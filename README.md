@@ -48,7 +48,6 @@ I am a versatile developer with expertise in web development, programming, and e
 [<img align="left" alt="Sanjay | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/share/1BHyWPmizk/)
 [<img align="left" alt="Sanjay | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/@sanjay-sj1kv?si=xal3MJXBMYXzqBYN)
 
-<br/>
 ###
 ---
 ### Let's connect 👨‍💻 and innovate together! 💡
