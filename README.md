@@ -1,67 +1,52 @@
-# **Hey, Sanjay.H.M. here 👋**  
+# Hi, I'm Sanjay H M 👋
 
-### **☕ Java-Focused Developer**
+## ☕ Java-Focused Backend Developer
 
-I’m a developer specializing in Java for building scalable, structured, and performance-driven backend systems. I use Java as my primary language for problem-solving, data structures, and backend architecture.  
-
-### **👯 Collaboration:**  
-I’m open to collaborations on web and backend projects using my expertise in **Node.js** and **Java**.  
-## 🔥 Core Expertise
-
-### ☕ Java (Primary Language)
-
-- OOP Principles  
-  - Encapsulation  
-  - Inheritance  
-  - Polymorphism  
-  - Abstraction  
-
-- Collections Framework  
-- Exception Handling  
-- Multithreading  
-- JDBC  
-
-### 🧠 Data Structures & Algorithms
-- Implemented using Java  
-- Strong focus on time & space optimization  
-
-### 🗄️ Database Skills
-- SQL  
-- Database Integration using JDBC  
+I specialize in **Java** for building scalable, structured, and performance-oriented backend systems.  
+My core strength lies in object-oriented design, data structures, and writing clean, maintainable code.
 
 ---
 
-## **Tech & Tools Preferences**  
+## 🔥 Core Expertise
+
+### ☕ Java (Primary Language)
+- OOP Principles (Encapsulation, Inheritance, Polymorphism, Abstraction)
+- Collections Framework
+- Exception Handling
+- Multithreading
+- JDBC
+
+### 🧠 Data Structures & Algorithms
+- Implemented using Java
+- Strong focus on time and space optimization
+
+### 🗄️ Database & Integration
+- SQL
+- JDBC-based database connectivity
+
+---
+
+## 💻 Tech Stack
+
 <img src="https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"><img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white"><img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
 
 ---
 
-## **Other Interests and Skills**  
-- 💾 Programming Fundamentals: **Java**, **C**,**Python**, **SQL**  
-- 💻 Backend Frameworks: **Node.js**, **Express.js**  
-- 🌐 Frontend: **HTML/CSS/JS**, **React**  
-- 📊 Data and AI: **Python**, **Machine Learning**  
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjay-H-M&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Sanjay-H-M&layout=compact&langs_count=5&hide_border=true)
 
 ---
 
-## **GitHub Stats**  
+## 🌐 Connect With Me
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjay-H-M&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=light&theme=white&locale=en&hide_border=true)  ![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Sanjay-H-M&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=light&hide_border=true)  
-
----
-
-## **🌍 Find Me Online**  
-
-- [<img align="left" alt="Sanjay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_sanjay_2705_/profilecard/?igsh=MTNxNW5sYTN0aHljOA==) **Instagram**  
-- [<img align="left" alt="Sanjay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/h-m-sanjay-6928a92a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) **LinkedIn**  
-- [<img align="left" alt="Sanjay | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/share/1BHyWPmizk/) **Facebook**  
-- [<img align="left" alt="Sanjay | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtube.com/@sanjay-sj1kv?si=xal3MJXBMYXzqBYN) **YouTube**  
+- [LinkedIn](https://www.linkedin.com/in/h-m-sanjay-6928a92a6)
+- [Instagram](https://www.instagram.com/_sanjay_2705_)
+- [YouTube](https://youtube.com/@sanjay-sj1kv)
+- [Facebook](https://www.facebook.com/share/1BHyWPmizk/)
 
 ---
 
-### Let's connect 👨‍💻 and innovate together! 💡  
-
-**Check out my repositories and don't forget to give a star!**  
-🌟 From [**Sanjay**](https://github.com/Sanjay-H-M)  
-
---- 
+### Open to backend and Java-based collaboration opportunities.
