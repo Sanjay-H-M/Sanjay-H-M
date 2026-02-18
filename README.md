@@ -32,14 +32,6 @@ My core strength lies in object-oriented design, data structures, and writing cl
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanjay-H-M&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Sanjay-H-M&layout=compact&langs_count=5&hide_border=true)
-
----
-
 ## 🌐 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/h-m-sanjay-6928a92a6)
