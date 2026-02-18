@@ -1,16 +1,33 @@
 # **Hey, Sanjay.H.M. here 👋**  
 
-I am a versatile developer with expertise in web development, programming, and exploring innovative tech solutions. Always eager to learn and collaborate on exciting projects! 🚀  
+### **☕ Java-Focused Developer**
 
-### **🔭 Current Focus:**  
-- Exploring **Node.js**, **JavaScript**, and **Java** to build robust and scalable applications.  
-- Learning new techniques to enhance full-stack development and backend efficiency.  
+I’m a developer specializing in Java for building scalable, structured, and performance-driven backend systems. I use Java as my primary language for problem-solving, data structures, and backend architecture.  
 
 ### **👯 Collaboration:**  
 I’m open to collaborations on web and backend projects using my expertise in **Node.js** and **Java**.  
+## 🔥 Core Expertise
 
-### **💬 Ask Me About:**  
-Web development, backend programming, and modern software technologies.
+### ☕ Java (Primary Language)
+
+- OOP Principles  
+  - Encapsulation  
+  - Inheritance  
+  - Polymorphism  
+  - Abstraction  
+
+- Collections Framework  
+- Exception Handling  
+- Multithreading  
+- JDBC  
+
+### 🧠 Data Structures & Algorithms
+- Implemented using Java  
+- Strong focus on time & space optimization  
+
+### 🗄️ Database Skills
+- SQL  
+- Database Integration using JDBC  
 
 ---
 
@@ -21,10 +38,10 @@ Web development, backend programming, and modern software technologies.
 ---
 
 ## **Other Interests and Skills**  
+- 💾 Programming Fundamentals: **Java**, **C**,**Python**, **SQL**  
 - 💻 Backend Frameworks: **Node.js**, **Express.js**  
 - 🌐 Frontend: **HTML/CSS/JS**, **React**  
 - 📊 Data and AI: **Python**, **Machine Learning**  
-- 💾 Programming Fundamentals: **Java**, **C++**, **SQL**  
 
 ---
 
