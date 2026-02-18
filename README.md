@@ -32,8 +32,22 @@ I’m open to collaborations on web and backend projects using my expertise in *
 ---
 
 ## **Tech & Tools Preferences**  
+<img src="https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white">
 
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">  <img src="http://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c&logoColor=ffffff">  <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">  <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">  
+<!-- Then Web / Backend Stack -->
+<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
+
 
 ---
 
